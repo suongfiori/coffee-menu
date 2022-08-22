@@ -325,7 +325,7 @@ The default color of a link that has not yet been clicked on is typically blue. 
 
 To make the footer links the same color regardless if a link has been visited, use a type selector for the anchor element (a) and use the value black for the color property.
 <hr>
-<h4>tep 81P</h4>
+<h4>Step 81</h4>
 You change properties of a link when the link has actually been visited by using a pseudo-selector that looks like a:visited { propertyName: propertyValue; }.
 
 Change the color of the footer Visit our website link to be grey when a user has visited the link.
