@@ -1,5 +1,5 @@
 <h1>THE 92-STEP HTML/CSS CHALLENGES TO COMPLETE A COFFEE MENU</h1>
-
+<img src="images/camper-cafe.png">
 <hr>
 
 <h4>Step 1</h4>
